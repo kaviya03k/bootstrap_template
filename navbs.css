@@ -1,0 +1,103 @@
+.active,
+.nav-link:hover {
+    color: yellow !important;
+
+}
+.nav-link{
+    text-align: center;
+}
+
+body {
+    background-image: url("img1.avif");
+    background-size: cover;
+    background-attachment: fixed;
+    height: fit-content;
+    /* margin-top: 40px;
+      margin-left: 70px; */
+
+
+
+}
+
+.sec{
+    min-height: 100vh;
+}
+
+.sec1 {
+    background-image: url("img2.avif");
+    background-size: cover;
+    height: 90vh;
+    background-attachment: fixed;
+}
+
+.sec3 {
+    min-height: 100vh;
+    background-color: #152040;
+
+}
+
+.pt1 {
+    height: 80vh;
+    background-image: url("https://static.wixstatic.com/media/fc7570_3d943b929f324e8bb9b4925934bf744f~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_458,h_835,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_3d943b929f324e8bb9b4925934bf744f~mv2_d_5760_3840_s_4_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pt2 {
+    height: 80vh;
+    background-image: url("https://static.wixstatic.com/media/fc7570_043acdee000b4850a234eaf94373483a~mv2_d_3920_3346_s_4_2.jpg/v1/fill/w_459,h_835,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_043acdee000b4850a234eaf94373483a~mv2_d_3920_3346_s_4_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pt3 {
+    height: 80vh;
+    background-image: url("https://static.wixstatic.com/media/fc7570_45d9b8902e024708b38cba80b28cabab~mv2_d_2848_3769_s_4_2.jpg/v1/fill/w_459,h_835,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_45d9b8902e024708b38cba80b28cabab~mv2_d_2848_3769_s_4_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec4 {
+    background-color: gray;
+    height: 70vh;
+}
+
+.sec5 {
+    background-image: url("https://static.wixstatic.com/media/fc7570_929a2fe5b7754396b385f6219e720299~mv2_d_3982_2655_s_4_2.jpg/v1/fill/w_1651,h_1100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fc7570_929a2fe5b7754396b385f6219e720299~mv2_d_3982_2655_s_4_2.jpg");
+    height: 80vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.sec6 {
+    background-color: #152040;
+    height: 80vh;
+}
+
+.tx1 {
+    color: #152040;
+
+}
+
+.btn2 {
+    background-color: #152040;
+
+}
+
+.sec8 {
+    background-color: #152040;
+    min-height: 60vh;
+}
+
+.pic {
+    height: 120px;
+}
+
+.pic2 {
+    height: 50px;
+}
+
+.map-part{
+    height: 80vh;
+}
